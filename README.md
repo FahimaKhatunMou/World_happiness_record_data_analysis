@@ -36,9 +36,6 @@ To run the analysis locally, follow these instructions:
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Plotting histogram of Happiness Scores
-sns.histplot(df['Happiness Score'], kde=True, bins=20, color='blue')
-plt.title('Distribution of Happiness Scores')
-plt.xlabel('Happiness Score')
-plt.ylabel('Frequency')
-plt.show()
+# Heatmap
+![Heatmap](https://github.com/user-attachments/assets/beaeacec-6f0e-4557-99c6-618072aaeb89)
+
