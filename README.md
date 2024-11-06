@@ -39,3 +39,6 @@ import seaborn as sns
 # Heatmap
 ![Heatmap](https://github.com/user-attachments/assets/beaeacec-6f0e-4557-99c6-618072aaeb89)
 
+![Happy_country](https://github.com/user-attachments/assets/a2c7b3ef-dd2c-479c-b749-1ff8ed033bc1)
+
+
