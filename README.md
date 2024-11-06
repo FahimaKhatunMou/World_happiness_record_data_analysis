@@ -60,5 +60,42 @@ import seaborn as sns
 # Pie chart
 ![Pie chart](https://github.com/user-attachments/assets/75fc1176-bf02-4be8-8fcc-caa9dbe5b717)
 
+# Actual vs Predicted Happiness Scores(LInear Regression)
+![Linear_regression](https://github.com/user-attachments/assets/97ca3421-8a8e-400e-8315-a721954107c9)
+
+# Actual vs Predicted Happiness Scores(Random Forest)
+![RandomForest](https://github.com/user-attachments/assets/ed375876-9543-4e10-9dc4-91ed9cba16b1)
+
+## Final Analysis
+
+### Model Performance Summary
+
+In this project, we analyzed the **World Happiness Report** dataset using both **Linear Regression** and **Random Forest Regression** models to predict the happiness scores of different countries. Here’s a summary of the results:
+
+| Model               | RMSE (Root Mean Squared Error) | R² (R-Squared)  |
+|---------------------|---------------------------------|------------------|
+| Linear Regression   | 0.5734                          | 0.7599          |
+| Random Forest       | 0.2463                          |  0.8201          |
+
+### Interpretation of Results
+
+- **Root Mean Squared Error (RMSE)**: This metric shows the average magnitude of the prediction errors (the lower, the better). 
+  - The Random Forest model achieved a significantly lower RMSE (0.2463) compared to the Linear Regression model (0.5734), indicating that it produced more accurate predictions on average.
+
+- **R-Squared (R²)**: This value represents the proportion of variance in the happiness scores explained by the model (the closer to 1, the better).
+  - The Random Forest model had a higher R² score (0.8201) than the Linear Regression model (0.7599), suggesting that it captured more of the underlying patterns in the data.
+
+### Final Insights
+
+- **Model Selection**: Based on the evaluation metrics, the Random Forest model is the superior choice for this dataset. It outperforms the Linear Regression model in both RMSE and R², meaning it provides more accurate and reliable predictions for happiness scores.
+  
+
+
+### Conclusion
+
+The **Random Forest model** was found to be more effective than the **Linear Regression model** in predicting happiness scores accurately. For future studies or applications where prediction accuracy is essential, Random Forest provides a better fit for this dataset. Additionally, the feature importance insights from Random Forest can guide policymakers or researchers in identifying key factors influencing happiness at a national level.
+
+
+
 
 
