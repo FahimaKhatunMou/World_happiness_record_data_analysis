@@ -39,6 +39,26 @@ import seaborn as sns
 # Heatmap
 ![Heatmap](https://github.com/user-attachments/assets/beaeacec-6f0e-4557-99c6-618072aaeb89)
 
+# Top 10 Happiest and Unhappiest countries
 ![Happy_country](https://github.com/user-attachments/assets/a2c7b3ef-dd2c-479c-b749-1ff8ed033bc1)
+
+# Average Contribution of Key Factors to Happiness]
+![Average Contribution of Key Factors to Happiness](https://github.com/user-attachments/assets/609bcb87-b3e5-4069-a85f-27aa00d417a7)
+
+# Happiness Score by Region
+![HappinessScoreByRegion](https://github.com/user-attachments/assets/bca3057c-76c5-43cb-99a7-5ffcd3d778ba)
+
+# Distribution of Happiness Levels
+![Distribution_Of_Happiness_levels](https://github.com/user-attachments/assets/7a1dd437-60b9-42d0-a762-92d80c30102f)
+
+# Histograms
+![Histograms](https://github.com/user-attachments/assets/8c16cf72-6652-41a1-9ff1-d77e2e0f3ba2)
+
+# Scatter Plots
+![ScatterPlot](https://github.com/user-attachments/assets/aab3175f-5d08-47dd-bbdd-d278ef89145e)
+
+# Pie chart
+![Pie chart](https://github.com/user-attachments/assets/75fc1176-bf02-4be8-8fcc-caa9dbe5b717)
+
 
 
